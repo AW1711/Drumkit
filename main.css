@@ -1,0 +1,78 @@
+#buttons{
+     display:flex;
+     justify-content: center;
+     margin-top: 20%;
+   
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 350%;
+}
+
+#topColour{
+    background-color: rgb(241, 160, 157);
+
+    flex: 0 0 20%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+
+}
+#soundButton1{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton2{
+    background-color: rgb(94, 243, 151);
+padding: 2%;
+border-radius:8px;
+}
+#soundButton3{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton4{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton5{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton6{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton7{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton8{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px;
+}
+#soundButton9{
+    background-color: rgb(94, 243, 151);
+    padding: 2%;
+    border-radius:8px
+    
+    
+}
+@media screen and (max-width: 768px){
+#soundButton1{
+   min-width:12.5%
+
+}
+
+
+}
